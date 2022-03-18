@@ -1,0 +1,22 @@
+{
+  "kibana_reports": [
+    {
+      "report_name": "[REPORT NAME]",
+      "report_url": "[REPORT URL (COPY POST URL FROM KIBANA)]",
+      "es_user": "[Elasticsearch Username]",
+      "es_password": "[Elasticsearch Password]"
+    },
+    {
+      "report_name": "[REPORT NAME]",
+      "report_url": "[REPORT URL (COPY POST URL FROM KIBANA)]",
+      "es_user": "[Elasticsearch Username]",
+      "es_password": "[Elasticsearch Password]"
+    },
+    {
+      "report_name": "[REPORT NAME]",
+      "report_url": "[REPORT URL (COPY POST URL FROM KIBANA)]",
+      "es_user": "[Elasticsearch Username]",
+      "es_password": "[Elasticsearch Password]"
+    }
+  ]
+}
